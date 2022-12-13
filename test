@@ -2,11 +2,7 @@
  rename docker.md => good/docker.md (100%)
  rename dockerhub.md => good/dockerhub.md (100%)
 
- create mode 100644 gpg.md
- create mode 100644 java.md
- creat
- create mode 100644 rancher.md
- create mode 100644 skype.md
+ 
 B/s, done.
 Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
